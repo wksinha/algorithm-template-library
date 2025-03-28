@@ -1,6 +1,6 @@
 # Algorithm Template Library
 A collection of algorithms for competitive programming contests.  
-This is a **work-in-progress**. For a more complete version, algorithms in Java can be found under the `old-version` branch.
+This is a **work-in-progress**. For a more complete version, algorithms in Java can be found under the `archive/old-version` branch.
 
 ## Algorithms
 The following classes of algorithms can be found implemented.  
