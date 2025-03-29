@@ -15,8 +15,10 @@ A comparative analysis of pattern matching algorithms.
 A basic modular arithmetic library.  
 
 ## TO-DO
-- Add vectorization and benchmark platform-specific optimizations.
-- Upload tests, benchmarks, and, establish Git-Hooks
+- Add vectorization
+- Benchmark platform-specific optimizations.
+- Upload tests
+- Establish Git-Hooks
 
 ---
 
