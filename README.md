@@ -9,6 +9,7 @@ This is a **work-in-progress**. For a more complete version, algorithms in Java 
 - Modular Arithmetic
 
 ## TO-DO
+- Add resources/references (ex. KMP vs Naive/SIMD)
 - Add vectorization
 - Benchmark platform-specific optimizations.
 - Upload tests
