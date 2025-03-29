@@ -2,21 +2,29 @@
 A collection of algorithms for competitive programming contests.  
 This is a **work-in-progress**. For a more complete version, algorithms in Java can be found under the `archive/old-version` branch.
 
-## Algorithms
-The following can be found (partially) implemented.  
+## I/O
+Auxiliary templates for efficient, convenient I/O.  
 
-### I/O
-Auxiliary templates for efficient, convenient I/O.
+## Sorting
+A comparative analysis of various sorting algorithms.  
 
-### Sorting
-A comparative analysis of various sorting algorithms, with vectorization included.  
-
-### Pattern Matching
-A comparative analysis of various pattern matching algorithms, with vectorization included.  
+## Pattern Matching
+A comparative analysis of various pattern matching algorithms.  
 
 ## Modular Integers
-A basic modular arithmetic library.
+A basic modular arithmetic library.  
 
-## Todo
-- Include range query data structures
+## TO-DO
+- Add vectorization and benchmark platform-specific optimizations.
 - Upload tests, benchmarks, and, establish Git-Hooks
+
+## archive/old-version
+Algorithm templates in Java.
+- DSU (Union-Find)
+- Fenwick-Tree (Point-Update-Range-Query)
+- LCA (Binary Lifting)
+- Modular-Arithmetic (Exponentiation, Inverse)
+- Prefix-Sum
+- Segment-Tree (Implicit/Dynamic, Point-Update-Range-Query)
+- Sparse-Table (Static Range-Minimum-Query)
+- Stack (Next Greatest Element)
