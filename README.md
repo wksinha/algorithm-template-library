@@ -3,8 +3,7 @@ A collection of algorithms for competitive programming contests.
 This is a **work-in-progress**. For a more complete version, algorithms in Java can be found under the `archive/old-version` branch.
 
 ## Algorithms
-The following classes of algorithms can be found implemented.  
-Some vectorized alternatives have also been added for comparison.
+The following can be found (partially) implemented.  
 
 ### I/O
 Auxiliary templates for efficient, convenient I/O.
