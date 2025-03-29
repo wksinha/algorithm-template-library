@@ -18,6 +18,8 @@ A basic modular arithmetic library.
 - Add vectorization and benchmark platform-specific optimizations.
 - Upload tests, benchmarks, and, establish Git-Hooks
 
+---
+
 ## archive/old-version
 Algorithm templates in Java.
 - DSU (Union-Find)
