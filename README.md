@@ -8,20 +8,18 @@ Some vectorized alternatives have also been added for comparison.
 
 ### I/O
 Auxiliary templates for efficient, convenient I/O.
-- Standard I/O
-- Fast I/O
 
 ### Sorting
-A comparative analysis of various sorting algorithms, including vectorization, is included.  
+A comparative analysis of various sorting algorithms, with vectorization included.  
 - Insertion Sort
 - Quick Sort
 - Merge Sort
 - Insertion + Quick Sort (Hybrid)
 
 ### Pattern Matching
-A comparative analysis of various pattern matching algorithms, including vectorization, is included.  
+A comparative analysis of various pattern matching algorithms, with vectorization included.  
 For completeness, the following need to be included: `aho-corasick algorithm`, `suffix-array`.
-- Naive (Vectorized)
+- Naive
 - KMP
 - Z-Function
 
