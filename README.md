@@ -21,7 +21,7 @@ A basic modular arithmetic library.
 ---
 
 ## archive/old-version
-Algorithm templates in Java.
+Algorithm templates in Java. Check the `archive/old-version` branch.
 - DSU (Union-Find)
 - Fenwick-Tree (Point-Update-Range-Query)
 - LCA (Binary Lifting)
