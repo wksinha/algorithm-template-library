@@ -2,17 +2,11 @@
 A collection of algorithms for competitive programming contests.  
 This is a **work-in-progress**. For a more complete version, algorithms in Java can be found under the `archive/old-version` branch.
 
-## I/O
-Auxiliary templates for efficient, convenient I/O.  
-
-## Sorting
-A comparative analysis of sorting algorithms.  
-
-## Pattern Matching
-A comparative analysis of pattern matching algorithms.  
-
-## Modular Integers
-A basic modular arithmetic library.  
+## Templates
+- I/O
+- Sorting
+- Pattern Matching
+- Modular Arithmetic
 
 ## TO-DO
 - Add vectorization
