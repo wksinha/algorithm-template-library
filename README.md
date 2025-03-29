@@ -6,10 +6,10 @@ This is a **work-in-progress**. For a more complete version, algorithms in Java 
 Auxiliary templates for efficient, convenient I/O.  
 
 ## Sorting
-A comparative analysis of various sorting algorithms.  
+A comparative analysis of sorting algorithms.  
 
 ## Pattern Matching
-A comparative analysis of various pattern matching algorithms.  
+A comparative analysis of pattern matching algorithms.  
 
 ## Modular Integers
 A basic modular arithmetic library.  
